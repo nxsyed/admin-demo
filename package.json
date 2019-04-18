@@ -1,7 +1,7 @@
 {
   "name": "react-chat-example",
   "version": "0.1.0",
-  "homepage": "https://nxsyed.github.io/ReactChatEngineApp/",
+  "homepage": "https://nxsyed.github.io/admin-demo/",
   "private": true,
   "dependencies": {
     "@material-ui/core": "^3.0.1",
